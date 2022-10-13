@@ -3,14 +3,14 @@
     font-size: 16px;
 }
 
-body {background-color: blue;
+body {background-color: rgb(0, 0, 185);
 
 }
 
-main{
+main {
     background-color: white;
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px black;
+    box-shadow: 3px 3px 5px rgb(0, 0, 0);
 }
