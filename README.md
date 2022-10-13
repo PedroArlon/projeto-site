@@ -1,2 +1,3 @@
-# projetp-site
+# projeto-site
  projeto de um site criado em um curso de git.
+__vamos progamar!__
